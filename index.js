@@ -17,3 +17,4 @@ function greet(timeStr) {
   return "Good Afternoon"
 }
 /* Write your implementation of displayMessage() */
+function displayMessage(string)
